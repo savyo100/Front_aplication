@@ -1,19 +1,25 @@
-18
+24
 65C:\Users\savyo\Desktop\Projetinho\Front_aplication\.gitattributes133922347821829161 0
+84C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\gbtp-client.88feccf5.css.map133925160884026476 0
 63C:\Users\savyo\Desktop\Projetinho\Front_aplication\package.json133922351653660665 0
 84C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\Front_aplication.59712999.js133922337163495632 0
 68C:\Users\savyo\Desktop\Projetinho\Front_aplication\package-lock.json133922327933038939 0
-55C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist133922343627367783 1
+55C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist133925160958381674 1
+58C:\Users\savyo\Desktop\Projetinho\Front_aplication\.vscode133925144716036767 1
 88C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\Front_aplication.59712999.js.map133922337163600764 0
 61C:\Users\savyo\Desktop\Projetinho\Front_aplication\.gitignore133922347431375485 0
 62C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client133922357621098287 1
-64C:\Users\savyo\Desktop\Projetinho\Front_aplication\tsconfig.json133922322021109563 0
 60C:\Users\savyo\Desktop\Projetinho\Front_aplication\README.md133922315964599004 0
-66C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src133922353350310343 1
-77C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src\index.html133922338089670235 0
+64C:\Users\savyo\Desktop\Projetinho\Front_aplication\tsconfig.json133922322021109563 0
+66C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src133925128244024404 1
+83C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\gbtp-client.2062cbb5.js.map133925160883650124 0
+81C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src\comunicador.ts133925158949308307 0
+77C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src\index.html133925160957232156 0
 75C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src\index.ts133922343625161206 0
+76C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src\style.css133925155398688112 0
 84C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\Front_aplication.377278e2.js133922337163495632 0
 88C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\Front_aplication.377278e2.js.map133922337163620860 0
-79C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\gbtp-client.2062cbb5.js133922343627231483 0
-83C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\gbtp-client.2062cbb5.js.map133922343627347718 0
-66C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\index.html133922341890625029 0
+79C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\gbtp-client.2062cbb5.js133925160883600119 0
+80C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\gbtp-client.88feccf5.css133925160883966447 0
+66C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\index.html133925160958371662 0
+72C:\Users\savyo\Desktop\Projetinho\Front_aplication\.vscode\settings.json133925144716575682 0

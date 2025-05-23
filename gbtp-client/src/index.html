@@ -2,24 +2,33 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./style.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
     <title>Gabio Bank</title>
 </head>
-<h1>Gabio Bank$</h1>
+
 <body>
-    <div class="text1">Digite o número da conta<br><input type="text" name="" id="numero-conta"></div>
+    <h1>Gabio Bank$</h1>
+
+    <div class="text1">
+        Digite o número da conta<br />
+        <input type="number" id="numero-conta" />
+    </div>
+
     <div class="operacao">
-        <label for="operacao">Operação:</label>
+        <label for="opcao">Operação:</label>
         <select name="opcao" id="opcao">
             <option value="consultar">Consultar Saldo</option>
-            <option value="deposito">Deposito</option>
+            <option value="deposito">Depósito</option>
             <option value="saque">Saque</option>
-            <option value="transferencia">Transfêrencia</option>
-        </select><br>
+            <option value="transferencia">Transferência</option>
+        </select><br />
     </div>
-    <div class="text2">Conta de Destino <br><input type="text" name="" id="conta-destino">
+
+    <div class="text2">
+        Conta de Destino <br />
+        <input type="number" id="conta-destino" />
     </div>
 
     <div class="botao">
