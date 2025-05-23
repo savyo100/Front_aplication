@@ -1,17 +1,19 @@
-16
-63C:\Users\savyo\Desktop\Projetinho\Front_aplication\package.json133922343025586053 0
+18
+65C:\Users\savyo\Desktop\Projetinho\Front_aplication\.gitattributes133922347821829161 0
+63C:\Users\savyo\Desktop\Projetinho\Front_aplication\package.json133922351653660665 0
 84C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\Front_aplication.59712999.js133922337163495632 0
 68C:\Users\savyo\Desktop\Projetinho\Front_aplication\package-lock.json133922327933038939 0
 55C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist133922343627367783 1
-62C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client133922339437865452 1
-66C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src133922336804955342 1
+88C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\Front_aplication.59712999.js.map133922337163600764 0
+61C:\Users\savyo\Desktop\Projetinho\Front_aplication\.gitignore133922347431375485 0
+62C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client133922357621098287 1
 64C:\Users\savyo\Desktop\Projetinho\Front_aplication\tsconfig.json133922322021109563 0
 60C:\Users\savyo\Desktop\Projetinho\Front_aplication\README.md133922315964599004 0
+66C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src133922353350310343 1
 77C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src\index.html133922338089670235 0
 75C:\Users\savyo\Desktop\Projetinho\Front_aplication\gbtp-client\src\index.ts133922343625161206 0
 84C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\Front_aplication.377278e2.js133922337163495632 0
 88C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\Front_aplication.377278e2.js.map133922337163620860 0
-88C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\Front_aplication.59712999.js.map133922337163600764 0
 79C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\gbtp-client.2062cbb5.js133922343627231483 0
 83C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\gbtp-client.2062cbb5.js.map133922343627347718 0
 66C:\Users\savyo\Desktop\Projetinho\Front_aplication\dist\index.html133922341890625029 0
